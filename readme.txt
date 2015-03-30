@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: spam comments,secured comments, simple comments,no captcha, spam, spammer, comment, comments, comment-spam, antispam, anti-spam, block-spam, spam-free, spambot, spam-bot, bot
 Requires at least: 3.3
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -20,8 +20,8 @@ Our Major Features Include:
 2. Plugin prevents comment spam without requiring moderators to moderate the comments
 3. The visitor have user-unfriendly comment section by removing Captchas or answer stupid arithmetic questions.
 4. Plugin prevents bot spam and manual comment spam
+5. Dashboard added for admin flexible email and spam words
 
-For more information - http://buffercode.com/no-captcha-in-comments/
 
 == Installation ==
 
@@ -29,13 +29,14 @@ For more information - http://buffercode.com/no-captcha-in-comments/
 2. Go to the plugins setting page and activate "No Captcha in Comment"
 3. Thats is the plugin will play the remaining role to block the bot and human spams
 
-For more info - http://buffercode.com/no-captcha-in-comments/
 
 == Changelog ==
-= 1.0 =
-* Public release
+= 1.2 = 
+* Admin Dashboard added with flexible spam words
 = 1.1 =
 * String count validation included
+= 1.0 =
+* Public release
 
 == Screenshots ==
 1. Comment Form without CAPTCHA
