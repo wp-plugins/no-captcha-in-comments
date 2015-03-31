@@ -12,8 +12,8 @@ add_action('admin_init', 'ncc_spam_update');
 
 
 function ncc_admin_notice() {
-	global $ncc_pagenow;
-	if ($ncc_pagenow == 'edit-comments.php'):
+	global $pagenow;
+	if ($pagenow == 'edit-comments.php'):
 		$ncc_user_id = get_current_user_id();
 		$ncc_info_visibility = get_user_meta($ncc_user_id, 'ncc_info_visibility', true);
 		if ($ncc_info_visibility == 1 OR $ncc_info_visibility == ''):
