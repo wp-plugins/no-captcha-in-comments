@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: spam comments,secured comments, simple comments,no captcha, spam, spammer, comment, comments, comment-spam, antispam, anti-spam, block-spam, spam-free, spambot, spam-bot, bot
 Requires at least: 3.3
 Tested up to: 4.1.1
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -31,6 +31,8 @@ Our Major Features Include:
 
 
 == Changelog ==
+= 1.2.1 =
+* Bug fixes
 = 1.2 = 
 * Admin Dashboard added with flexible spam words
 = 1.1 =
